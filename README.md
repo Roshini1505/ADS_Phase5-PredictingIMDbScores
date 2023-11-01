@@ -1,5 +1,5 @@
 # ADS_Phase5-PredictingIMDbScores
-7321- NANDHA COLLEGE OF TECHNOLOGY / ADS_Phase4-Predicting IMDb Scores / BY Roshini S
+7321- NANDHA COLLEGE OF TECHNOLOGY / ADS_Phase5-Predicting IMDb Scores / BY Roshini S
 
 ## Table of Contents
 
